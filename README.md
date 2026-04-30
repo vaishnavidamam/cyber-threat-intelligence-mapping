@@ -1,12 +1,12 @@
 # Cyber Threat Intelligence Mapping
 
 ## Overview
-This project analyzes unstructured Cyber Threat Intelligence (CTI) data and maps it to MITRE ATT&CK tactics and techniques. It helps convert raw threat data into meaningful insights for better understanding of cyber attacks.
+This project analyzes unstructured Cyber Threat Intelligence (CTI) data and maps it to MITRE ATTACK tactics and techniques. It helps convert raw threat data into meaningful insights for better understanding of cyber attacks.
 
 ## What this project does
 - Processes unstructured threat intelligence data  
 - Extracts relevant attack information  
-- Maps data to MITRE ATT&CK tactics and techniques  
+- Maps data to MITRE ATTACK tactics and techniques  
 - Helps in understanding attacker behavior and patterns  
 
 ## Why this project
@@ -23,5 +23,5 @@ Unstructured threat data is difficult to analyze manually. This project automate
 2. Data preprocessing  
 3. Feature extraction  
 4. Model analysis  
-5. Mapping to MITRE ATT&CK  
+5. Mapping to MITRE ATTACK  
 6. Result generation  
